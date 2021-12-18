@@ -1,0 +1,8 @@
+node_modules
+processed.txt
+isolate-*
+.DS_Store
+*.cpuprofile
+*.ignore
+coverage
+dist

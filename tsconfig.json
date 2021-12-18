@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "target": "es2019",
+    "module": "es6",
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    // "declaration": true
+  },
+  "include": [
+    "src",
+    "examples" ],
+  "exclude": [
+    "test/**/*",
+    "lib/**/*",
+    "node_modules"
+  ]
+}
